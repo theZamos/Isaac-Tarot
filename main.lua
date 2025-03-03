@@ -9,7 +9,7 @@
 
 
 AltTexture({
-    key = 'isaac_tarot',
+    key = 'tarot',
     set = 'Tarot',
     path = 'isaac_tarots.png',
     loc_txt = {
